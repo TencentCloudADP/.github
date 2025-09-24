@@ -14,7 +14,7 @@ For enterprises or organizations interested in ADP services, just drop us a line
 
 📩 [adp_devrel@tencent.com](mailto:adp_devrel@tencent.com)
 
-## Contact US
+## Contact us
 
 | Twitter | Discord | Telegram | WhatsApp | YouTube |
 |---------|---------|----------|----------|---------|
