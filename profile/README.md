@@ -2,7 +2,7 @@
 
 Tencent Cloud Agent Development Platform is an Agent application development platform designed for enterprises and partners. By combining enterprise's exclusive data, it provides application paradigms, such as knowledge Q&A, and API services to enable faster and more efficient development and implementation of Agent applications in enterprise service scenarios. 
 
-This open-source project delivers core components from the ADP platform such as [Youtu-Agent](https://github.com/TencentCloudADP/youtu-agent), to help accelerate your AI development. It enables developers to explore key capabilities and apply them in a variety of scenarios, while the repository will continue to release new features and tools for AI Agent development—providing early access to the evolving capabilities of the ADP ecosystem.
+This open-source project delivers core components from the ADP platform such as [Youtu-Agent](https://github.com/TencentCloudADP/youtu-agent), to help accelerate your AI application development. It enables developers to explore key capabilities and apply them in a variety of scenarios, while the repository will continue to release new features and tools for AI Agent development—providing early access to the evolving capabilities of the ADP ecosystem.
 
 ## Register ADP
 
