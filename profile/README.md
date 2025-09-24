@@ -4,7 +4,7 @@ Tencent Cloud Agent Development Platform is an Agent application development pla
 
 By integrating with the full-strength version of DeepSeek, enterprises can quickly build self-service inquiry services based on natural language conversations and use operation tools to improve service quality at a low cost. This platform is mainly targeted at enterprise operation and maintenance personnel. 
 
-This open-source project delivers core components from the ADP platform to help accelerate AI application development such as **Youtu-Agent** and **Youtu-GraphRAG**. It gives developers the opportunity to try out key capabilities and apply them in real-world scenarios, while the repository will continue to release new features and tools for AI Agent development—providing early access to the evolving capabilities of the ADP ecosystem.
+This open-source project delivers core components from the ADP platform to help accelerate AI application development such as [Youtu-Agent](https://github.com/TencentCloudADP/youtu-agent) and [Youtu-GraphRAG](https://github.com/TencentCloudADP/youtu-graphrag). It gives developers the opportunity to try out key capabilities and apply them in real-world scenarios, while the repository will continue to release new features and tools for AI Agent development—providing early access to the evolving capabilities of the ADP ecosystem.
 
 ## Register ADP
 
