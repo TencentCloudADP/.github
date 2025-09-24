@@ -8,7 +8,7 @@ This open-source project provides essential components from the ADP platform, su
 
 Want to try building your own AI agents with **zero code**?
 
-👉 [Tencent Cloud ADP](https://www.tencentcloud.com/products/tcadp)
+👉 [Tencent Cloud ADP](https://adp.tencentcloud.com)
 
 For enterprises or organizations interested in ADP services, just drop us a line:
 
