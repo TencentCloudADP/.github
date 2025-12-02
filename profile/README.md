@@ -1,6 +1,6 @@
 # Tencent Cloud Agent Development Platform
 
-[Tencent Cloud Agent Development Platform (ADP)](https://adp.tencentcloud.com) is an enterprise-grade platform for building agent applications. It provides a variety of AI agent development frameworks, including **LLM+RAG**, **Workflow**, and **Multi-agent**, along with API services, enabling faster and more efficient building and deployment of agent solutions across enterprise scenarios.
+[Tencent Cloud Agent Development Platform (ADP)](https://adp.tencentcloud.com/?fromSource=github_profile) is an enterprise-grade platform for building agent applications. It provides a variety of AI agent development frameworks, including **LLM+RAG**, **Workflow**, and **Multi-agent**, along with API services, enabling faster and more efficient building and deployment of agent solutions across enterprise scenarios.
 
 This open-source project provides essential components from the ADP platform, such as [Youtu-Agent](https://github.com/TencentCloudADP/youtu-agent) and [Youtu-Embedding](https://github.com/TencentCloudADP/youtu-embedding), to help accelerate AI application development. It enables developers to explore key capabilities of ADP platform and integrate them into diverse use cases. The repository is updated regularly with new features and tools for AI Agent development, providing early access to the evolving ADP ecosystem.
 
@@ -8,7 +8,7 @@ This open-source project provides essential components from the ADP platform, su
 
 Want to try building your own AI agents with **zero code**?
 
-👉 [Tencent Cloud ADP](https://adp.tencentcloud.com)
+👉 [Tencent Cloud ADP](https://adp.tencentcloud.com/?fromSource=github_profile)
 
 For enterprises or organizations interested in ADP services, just drop us a line:
 
